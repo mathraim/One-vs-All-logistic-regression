@@ -1,7 +1,7 @@
-# One-vs-All-logistic-regression-and-neural-networks
-One-vs-All logistic regression and neural networks that implemented from scratch on matlab(octave)
+# One-vs-All-logistic-regression
+One-vs-All logistic regression that implemented from scratch on matlab(octave)
 
-In this exercise, I implemented one-vs-all logistic regression and neural networks to recognize hand-written digits
+In this exercise, I implemented one-vs-all logistic regression to recognize hand-written digits
 
 Automated handwritten digit recognition is widely used today - 
 from recognizing zip codes (postal codes) on mail envelopes to recognizing amounts written on bank checks.
